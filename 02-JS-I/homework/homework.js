@@ -35,7 +35,7 @@ function suma(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
-  var i = x + y;
+  i = x + y;
   return i;
 }
 
@@ -48,14 +48,14 @@ function resta(x, y) {
 function multiplica(x, y) {
   // Multiplica "x" por "y" y devuelve el valor
   // Tu código:
-  var i = x - y;
+  i = x - y;
   return i;
 }
 
 function divide(x, y) {
   // Divide "x" entre "y" y devuelve el valor
   // Tu código:
-  var i = x / y;
+  i = x / y;
   return i;
 }
 
@@ -102,7 +102,7 @@ function mayorQueCincuenta(num) {
 function obtenerResto(x, y) {
   // Obten el resto de la división de "x" entre "y"
   // Tu código:
-  var i = x % y;
+  i = x % y;
   return i;
 }
 
